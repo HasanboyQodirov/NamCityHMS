@@ -1,0 +1,167 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HospitalManagementSystem.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NurseUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DoctorUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PatientSSN" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AccounType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Lan" Type="System.String" Scope="User">
+      <Value Profile="(Default)">English</Value>
+    </Setting>
+    <Setting Name="LoginWelcome" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WELCOME TO HOSPITAL MANAGEMENT SYSTEM
+PLEASE LOGIN TO CONTINUE</Value>
+    </Setting>
+    <Setting Name="LoginAccountType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ACCOUNT TYPE</Value>
+    </Setting>
+    <Setting Name="LoginPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PASSWORD</Value>
+    </Setting>
+    <Setting Name="LoginUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">USERNAME</Value>
+    </Setting>
+    <Setting Name="Login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Login</Value>
+    </Setting>
+    <Setting Name="Doctors" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Doctors</Value>
+    </Setting>
+    <Setting Name="Patients" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Patients</Value>
+    </Setting>
+    <Setting Name="Nurses" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nurses</Value>
+    </Setting>
+    <Setting Name="About" Type="System.String" Scope="User">
+      <Value Profile="(Default)">About</Value>
+    </Setting>
+    <Setting Name="MyAccount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">My Account</Value>
+    </Setting>
+    <Setting Name="PatientSSNClick" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Please double click patient SSN to see and update information.</Value>
+    </Setting>
+    <Setting Name="InspectPatient" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Inspect Patient</Value>
+    </Setting>
+    <Setting Name="UpdatePatientInfo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Update Patient Info</Value>
+    </Setting>
+    <Setting Name="AddPatient" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Add Patient</Value>
+    </Setting>
+    <Setting Name="MyPatients" Type="System.String" Scope="User">
+      <Value Profile="(Default)">My Patients</Value>
+    </Setting>
+    <Setting Name="FirstName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">First Name</Value>
+    </Setting>
+    <Setting Name="LastName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Last Name</Value>
+    </Setting>
+    <Setting Name="ComplaintIllness" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Complaint (illness)</Value>
+    </Setting>
+    <Setting Name="Gender" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gender</Value>
+    </Setting>
+    <Setting Name="Phone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Phone</Value>
+    </Setting>
+    <Setting Name="AdminRedlbl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Please double click username cell of row that you would like to see and update information.</Value>
+    </Setting>
+    <Setting Name="AddDoctor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Add Doctor</Value>
+    </Setting>
+    <Setting Name="AddNurse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Add Nurse</Value>
+    </Setting>
+    <Setting Name="UpdateDoctorInfo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Update Doctor Info</Value>
+    </Setting>
+    <Setting Name="AdminPanel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Admin Panel</Value>
+    </Setting>
+    <Setting Name="UpdateNurseInfo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Update Nurse Info</Value>
+    </Setting>
+    <Setting Name="LoginInformation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LOGIN INFORMATION</Value>
+    </Setting>
+    <Setting Name="lblUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Username</Value>
+    </Setting>
+    <Setting Name="lblPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Password</Value>
+    </Setting>
+    <Setting Name="Email" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E-mail</Value>
+    </Setting>
+    <Setting Name="DoctorInformation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DOCTOR INFORMATION</Value>
+    </Setting>
+    <Setting Name="Department" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Department</Value>
+    </Setting>
+    <Setting Name="Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Address</Value>
+    </Setting>
+    <Setting Name="Cancel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CANCEL</Value>
+    </Setting>
+    <Setting Name="Add" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ADD</Value>
+    </Setting>
+    <Setting Name="NurseInformation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NURSE INFORMATION</Value>
+    </Setting>
+    <Setting Name="Birthdate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Birth date</Value>
+    </Setting>
+    <Setting Name="Birthplace" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Birth place</Value>
+    </Setting>
+    <Setting Name="Fathername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Father's name</Value>
+    </Setting>
+    <Setting Name="InspectionDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Inspection Date</Value>
+    </Setting>
+    <Setting Name="Illness" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Illness</Value>
+    </Setting>
+    <Setting Name="Doctor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Doctor</Value>
+    </Setting>
+    <Setting Name="AdminPanelText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">THIS IS YOUR ADMIN PANEL. YOU CAN
+CHANGE YOUR ACCOUNT DETAILS HERE.</Value>
+    </Setting>
+    <Setting Name="Logout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LOG OUT</Value>
+    </Setting>
+    <Setting Name="Save" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SAVE</Value>
+    </Setting>
+    <Setting Name="Close" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CLOSE</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

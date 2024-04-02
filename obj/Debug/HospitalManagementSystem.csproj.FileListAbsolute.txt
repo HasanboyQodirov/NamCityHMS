@@ -1,0 +1,80 @@
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.Cache
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmLogin.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminForm.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAddDoctor.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmDoctorInfoFull.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAddNurse.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAddPatient.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmUpdateNurse.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmInspectPatient.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmUpdatePatient.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmDoctor.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmNurse.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmDoctorProfile.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmStaffNurseProfile.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAdminProfile.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AboutBox.resources
+E:\My Projects\My programs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmSplash.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojAssemblyReference.cache
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AboutBox.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminForm.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAddDoctor.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAddNurse.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAddPatient.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAdminProfile.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmDoctor.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmDoctorProfile.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmInspectPatient.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmLogin.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmDoctorInfoFull.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmNurse.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmSplash.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmStaffNurseProfile.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmUpdateNurse.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmUpdatePatient.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CopyComplete
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+D:\Dongseo University\2. Master\Database\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+d:\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+d:\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+d:\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+d:\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojAssemblyReference.cache
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AboutBox.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminForm.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAddDoctor.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAddNurse.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAddPatient.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmAdminProfile.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmDoctor.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmDoctorProfile.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmInspectPatient.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmLogin.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmDoctorInfoFull.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmNurse.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmSplash.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmStaffNurseProfile.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmUpdateNurse.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.frmUpdatePatient.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CopyComplete
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+d:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
