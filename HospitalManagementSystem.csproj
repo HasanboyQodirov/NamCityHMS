@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{02F306C3-22CF-4E66-8908-77C66D9DE52D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HospitalManagementSystem</RootNamespace>
+    <AssemblyName>HospitalManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddDoctor.Designer.cs">
+      <DependentUpon>frmAddDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddNurse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddNurse.Designer.cs">
+      <DependentUpon>frmAddNurse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddPatient.Designer.cs">
+      <DependentUpon>frmAddPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminProfile.Designer.cs">
+      <DependentUpon>frmAdminProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoctor.Designer.cs">
+      <DependentUpon>frmDoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoctorProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoctorProfile.Designer.cs">
+      <DependentUpon>frmDoctorProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInspectPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInspectPatient.Designer.cs">
+      <DependentUpon>frmInspectPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoctorInfoFull.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoctorInfoFull.Designer.cs">
+      <DependentUpon>frmDoctorInfoFull.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNurse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNurse.Designer.cs">
+      <DependentUpon>frmNurse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffNurseProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffNurseProfile.Designer.cs">
+      <DependentUpon>frmStaffNurseProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateNurse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateNurse.Designer.cs">
+      <DependentUpon>frmUpdateNurse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdatePatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdatePatient.Designer.cs">
+      <DependentUpon>frmUpdatePatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddDoctor.resx">
+      <DependentUpon>frmAddDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddNurse.resx">
+      <DependentUpon>frmAddNurse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddPatient.resx">
+      <DependentUpon>frmAddPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminProfile.resx">
+      <DependentUpon>frmAdminProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoctor.resx">
+      <DependentUpon>frmDoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoctorProfile.resx">
+      <DependentUpon>frmDoctorProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInspectPatient.resx">
+      <DependentUpon>frmInspectPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoctorInfoFull.resx">
+      <DependentUpon>frmDoctorInfoFull.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNurse.resx">
+      <DependentUpon>frmNurse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffNurseProfile.resx">
+      <DependentUpon>frmStaffNurseProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateNurse.resx">
+      <DependentUpon>frmUpdateNurse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdatePatient.resx">
+      <DependentUpon>frmUpdatePatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginback.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_rounded_left_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_rounded_up_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_64px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown_16px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor_male_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nurse_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pulse_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hypertension_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pulse_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical_doctor_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nurse_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin_settings_male_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrator_male_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about_26px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctorpng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nurse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google_web_search_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show_property_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show_property_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrator_male_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-blue-minimalist-medical-safety-banner-image_261151.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show_property_64px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ABOUTBACK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ABOUTBACK1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
